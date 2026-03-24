@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 struct dikdortgen{
 	int solustkosex;
 	int solustkosey;
